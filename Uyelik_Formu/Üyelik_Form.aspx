@@ -87,7 +87,7 @@
                 <td class="style4">
                     Yaş</td>
                 <td class="style4">
-                    <asp:TextBox ID="TextBox6" runat="server"></asp:TextBox>
+                    <asp:TextBox ID="TextBox6" runat="server" TextMode="Number"></asp:TextBox>
                     <asp:CompareValidator ID="CompareValidator2" runat="server" 
                         ControlToValidate="TextBox6" ErrorMessage="Yaşınız 18 büyük olmalıdır" 
                         ForeColor="Red" Operator="GreaterThanEqual" Type="Integer" ValueToCompare="18">*</asp:CompareValidator>

@@ -2,3 +2,7 @@ c:\users\ibrah\onedrive\belgeler\visual studio 2010\Projects\Uyelik_Formu\Uyelik
 c:\users\ibrah\onedrive\belgeler\visual studio 2010\Projects\Uyelik_Formu\Uyelik_Formu\bin\Uyelik_Formu.pdb
 c:\users\ibrah\onedrive\belgeler\visual studio 2010\Projects\Uyelik_Formu\Uyelik_Formu\obj\Debug\Uyelik_Formu.dll
 c:\users\ibrah\onedrive\belgeler\visual studio 2010\Projects\Uyelik_Formu\Uyelik_Formu\obj\Debug\Uyelik_Formu.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\Uyelik_Formu-main\Uyelik_Formu\bin\Uyelik_Formu.dll
+C:\Users\ibrah\OneDrive\Masaüstü\Uyelik_Formu-main\Uyelik_Formu\bin\Uyelik_Formu.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\Uyelik_Formu-main\Uyelik_Formu\obj\Debug\Uyelik_Formu.dll
+C:\Users\ibrah\OneDrive\Masaüstü\Uyelik_Formu-main\Uyelik_Formu\obj\Debug\Uyelik_Formu.pdb
