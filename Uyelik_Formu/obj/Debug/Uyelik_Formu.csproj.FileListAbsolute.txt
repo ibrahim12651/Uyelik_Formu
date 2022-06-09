@@ -1,0 +1,4 @@
+c:\users\ibrah\onedrive\belgeler\visual studio 2010\Projects\Uyelik_Formu\Uyelik_Formu\bin\Uyelik_Formu.dll
+c:\users\ibrah\onedrive\belgeler\visual studio 2010\Projects\Uyelik_Formu\Uyelik_Formu\bin\Uyelik_Formu.pdb
+c:\users\ibrah\onedrive\belgeler\visual studio 2010\Projects\Uyelik_Formu\Uyelik_Formu\obj\Debug\Uyelik_Formu.dll
+c:\users\ibrah\onedrive\belgeler\visual studio 2010\Projects\Uyelik_Formu\Uyelik_Formu\obj\Debug\Uyelik_Formu.pdb
